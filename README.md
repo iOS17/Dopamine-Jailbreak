@@ -1,4 +1,4 @@
-# Dopamine-Jailbreak - iOS 15 and 16.6.1 The Definitive Guide
+# Dopamine Jailbreak - iOS 15 and 16.6.1 The Definitive Guide
 Dopamine Jailbreak - iOS 15 and 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64), Semi-Untethered Rootless arm64e Jailbreak Tool. Today, I'm going to show you exactly how to install Dopamine Jailbreak in 2024 & The jailbreak Compatibility of the Latest iOS 18 beta and iOS 17 - iOS 17.5.1
 In this comprehensive guide, I'll cover the following:
 
@@ -33,4 +33,46 @@ Nowadays, most of the new iOS 18 features come from old tweaks created by develo
 
 Dopamine v2 is based on the Kernel File Descriptor (KFD) exploit and a newer PPL bypass. Currently, Dopamine v2 officially supports the following device and firmware combinations:
 
-Supported Devices:
+## Supported Devices:
+
+The following devices and iOS versions are Compatible with the Dopamine Jailbreak. But if you are not sure whether your device is compatible with a jailbreak tool, please try Zeejb's AI-powered Dopamine Jailbreak checker tool. This will help you determine your device's jailbreak compatibility. 
+
+- iOS & iPadOS 15.0-16.6.1 on A8-A11 devices
+- iOS & iPadOS 15.0-16.5.1 and 16.6 betas 1-4 on A12-A14 & M1 devices
+- iOS & iPadOS 15.0-16.5 and 16.6 betas 1-4 on A15-A16 & M2 devices
+
+## Download Dopamine Jailbreak Tool
+
+- [Download Dopamine IPA file - Link 1](https://ipa.zeejb.com/temp5/productCopy.php?app=dopamine)
+- [Download Dopamine IPA file - Link 2](https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa)
+
+- [Download Dopamine TiPA](https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.tipa)
+
+
+## How to Install Dopamine Jailbreak Tool
+
+To install the Dopamine Jailbreak tool you can use common iPA signer services and tools like Dopa Store, Esign Patcher, Sideloadly, and AltStore. However, with the latest TrollStore, you can perma-sign the Dopamine Jailbreak iPA file; this will help you keep the installed Dopamine App Alive without 7-day revoking. This means you don't need to reinstall the Dopamine app repeatedly. Also, with the help of Esign Patcher and Dopa Sore, you will receive the Revoke Protection insurance and don't need a PC to install the Dopamine iPA file. 
+
+### Install Via Esign Patcher
+To install the Dopamine Jailbreak App via Esign Patcher, first, you must check whether the latest Esign Patcher is compatible with your device; according to our research data, the Latest Esign app is compatible with the latest iPhone 15 and iOS 18. However, you can take action by using the Esign tool checker to gain more confidence about the complete installation. 
+
+Free Esign Compatibility Checker
+
+Step 01: Download and install the Esign Patcher App on your device. ( You can self-sign the Esign iPA file or use the Esign Patcher Signing Service)
+
+[Install Esign via Esign Patcher Signing Service](https://zeejb.com/esign-app/)
+
+___________________________________________________________________________________________________________________
+**Read More: [Complete Esign Installation & Configuration Guide  ](https://github.com/iOS17/Esign)**
+___________________________________________________________________________________________________________________
+
+
+Step 02: Once you have installed the Esign App, import the certificate files and configure them. (You can get the free or VIP Certificate files via [https://esigncert.zeejb.com/](https://esigncert.zeejb.com/))
+
+Step 03: Download and import the Dopamine Jailbreak iPA file into the Esign App and sign it with the Certificate files. 
+
+Step 04: Open the Dopamine Jailbreak app and Continue the Jailbreak Process. 
+
+
+
+  

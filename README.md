@@ -75,4 +75,32 @@ Step 04: Open the Dopamine Jailbreak app and Continue the Jailbreak Process.
 
 
 
-  
+### Installing Via TrollStore
+You can perma-sign the Dopamine Jailbreak iPA file using TrollStore. As I mentioned, TrollStore can sign the iPA file permanently, so you don't need to repeatedly resign the iPA file.
+
+First, you need to install the TrollInstaller app, so please follow this guide to install the TrollInstaller app.
+
+After installing the TrollInstallerX, please follow the below guide. 
+
+# TrollInstallerX and Dopamine Jailbreak Guide
+
+## Step 1: Install TrollStore
+1. Open TrollInstallerX.
+2. Tap **Install TrollStore**.
+3. If your device is stuck on "Exploiting Kernel", reboot your device.
+4. When prompted to select an app to install the persistence helper into, choose an app you care about the least.
+   - If you don't know what app to select, choose **Tips** (App).
+5. If your device reboots before getting to this step, try again.
+6. Both TrollStore and its persistence helper should now be installed.
+
+## Step 2: Download Dopamine Jailbreak TiPA file
+1. Download the Dopamine Jailbreak TiPA file using the Zee AI iPA Library.
+
+## Step 3: Install Dopamine via TrollStore
+1. Open the downloaded TiPA file through TrollStore.
+2. The latest version of Dopamine will be installed on your device automatically.
+
+## Step 4: Jailbreak Your Device
+1. Open Dopamine.
+2. Continue to the Jailbreak Process.
+

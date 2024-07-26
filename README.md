@@ -12,6 +12,11 @@ So, if you want to Install Dopamine Jailbreak's Latest version and Install it Sa
 
 Let's get started.
 
+_______________________Dopamine Jailbreak Checker___________________________________
+What devices and iOS versions are dopamine-supported? Do you need to check your device compatibility with Dopam1ne? This tool is for you. Check your Device Dopamine Jailbreak Compatibility with Xina's Latest AI Based Dopamine Jailbreak tool For free-
+https://xina15.com/tools/dopamine-checker/
+____________________________________________________________________________________
+
 ## What is Dopamine Jailbreak?
 Dopamine is a semi-untethered jailbreak tool for A8-A16 and M1-M2 devices running iOS and iPadOS 15.0-16.6.1. The lead developer of this tool, Lars Fröder (@opa334dev), formally released Dopamine v2. This perma-signable jailbreak tool is an open-source project with two popular Default package managers, Sileo and Zebra. Also, you can install Cydia through Sileo, but Cydia has not been updated for a long time. 
 
@@ -90,17 +95,20 @@ After installing the TrollInstallerX, please follow the below guide.
 3. If your device is stuck on "Exploiting Kernel", reboot your device.
 4. When prompted to select an app to install the persistence helper into, choose an app you care about the least.
    - If you don't know what app to select, choose **Tips** (App).
-5. If your device reboots before getting to this step, try again.
+5. Try again if your device reboots before getting to this step.
 6. Both TrollStore and its persistence helper should now be installed.
 
 ## Step 2: Download Dopamine Jailbreak TiPA file
-1. Download the Dopamine Jailbreak TiPA file using the Zee AI iPA Library.
+1. Download the Dopamine Jailbreak TiPA file using the [Zee AI iPA Library](https://ipa.zeejb.com/aidopamine.php).
 
 ## Step 3: Install Dopamine via TrollStore
-1. Open the downloaded TiPA file through TrollStore.
+1. Open the downloaded TiPA file through [TrollStore](https://zeejb.com/trollstore/).
 2. The latest version of Dopamine will be installed on your device automatically.
 
 ## Step 4: Jailbreak Your Device
-1. Open Dopamine.
-2. Continue to the Jailbreak Process.
+1. Reboot your phone (not necessary)
+2. Open the Dopamine app from your home screen.
+3. Tap Jailbreak & Continue to the Jailbreak Process.
+
+
 

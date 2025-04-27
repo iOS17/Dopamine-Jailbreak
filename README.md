@@ -28,6 +28,10 @@ Dopamine jailbreak Latest version of v2.4.5 has been released with the following
 - Revert compiler optimizations for libjailbreak since this broke 15.x arm64 support [2.4.4 regression]
 
 
+  [![Dopamine Jailbreak Update Online](https://github.com/user-attachments/assets/c70de806-48fc-4493-a652-7e57f48b6dfc)](https://www.youtube.com/watch?v=6vgrEu4CK5w)
+
+
+
 
 
 **In simpler terms, a semi-Untethered jailbreak requires an app to reapply the exploit after a reboot. The term 'perma-signable' means that users can permanently sign IPAs on jailbroken/non-jailbroken iDevices 14.0-14.8.1 & 15.0-15.1.1, with the help of the CoreTrust bug.
